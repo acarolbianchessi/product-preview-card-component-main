@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    background-color: hsl(30, 38%, 92%);
+    background-color: black;
     font-family: Montserrat;
     font-size: 14px;
     display: flex;
